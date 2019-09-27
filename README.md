@@ -1,4 +1,1 @@
-# hello-world
-Elso munka
-Változott a vége
-next
+demo belfrit adatbazis
